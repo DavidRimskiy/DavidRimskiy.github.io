@@ -1,0 +1,38 @@
+html{
+    background: url("gdfg.jpg");
+      background-attachment: fixed;
+}
+body{
+    padding-left: 2%;
+    padding-right: 2%;
+}
+a:hover{
+    color: aqua
+}
+a{
+border-spacing: 2px;
+    text-decoration: none;
+   color: aliceblue;
+}
+
+.main1{ 
+   font-size:30px;
+       font-family:fantasy;
+  }
+ul{
+   
+    list-style-type: none;
+     margin: 0; 
+    padding: 2px; 
+}
+ul li{
+     display: inline-flex; 
+    margin-right: 3px; 
+    padding: 2px; 
+}
+.divtw{
+  display:flex;
+}
+#tw{
+    flex: ;
+}
